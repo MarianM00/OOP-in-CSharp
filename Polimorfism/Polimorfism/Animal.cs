@@ -9,6 +9,7 @@ namespace Polimorfism
 
         public virtual void Alearga()
         {
+            //test3
             Console.WriteLine("Animalul a inceput sa alerge");
 
         }
