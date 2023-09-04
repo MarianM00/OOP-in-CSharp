@@ -16,7 +16,7 @@ namespace Polimorfism
         public virtual void Zgomot()
         {
             Console.WriteLine("Animalul face un zgomot specific");
-
+//modificare in main
         }
 
     }
