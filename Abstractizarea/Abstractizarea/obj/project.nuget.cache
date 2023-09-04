@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2rrwuRtFspzrpqSvlFD+pa2pFrUPvdRZuv2KPeA48+PXflU9EdpQTua2jqsY9/FqssrKSiw1S8/zT+Yd2MVMZw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Marian\\Desktop\\StartLearn\\Dezvoltare c#\\POO\\Abstractizarea\\Abstractizarea\\Abstractizarea.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Marian\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

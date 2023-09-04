@@ -1,0 +1,13 @@
+C:\Users\Marian\Desktop\Dezvoltare c#\POO\Mostenire\Mostenire\bin\Debug\netcoreapp3.1\Mostenire.exe
+C:\Users\Marian\Desktop\Dezvoltare c#\POO\Mostenire\Mostenire\bin\Debug\netcoreapp3.1\Mostenire.deps.json
+C:\Users\Marian\Desktop\Dezvoltare c#\POO\Mostenire\Mostenire\bin\Debug\netcoreapp3.1\Mostenire.runtimeconfig.json
+C:\Users\Marian\Desktop\Dezvoltare c#\POO\Mostenire\Mostenire\bin\Debug\netcoreapp3.1\Mostenire.runtimeconfig.dev.json
+C:\Users\Marian\Desktop\Dezvoltare c#\POO\Mostenire\Mostenire\bin\Debug\netcoreapp3.1\Mostenire.dll
+C:\Users\Marian\Desktop\Dezvoltare c#\POO\Mostenire\Mostenire\bin\Debug\netcoreapp3.1\Mostenire.pdb
+C:\Users\Marian\Desktop\Dezvoltare c#\POO\Mostenire\Mostenire\obj\Debug\netcoreapp3.1\Mostenire.csprojAssemblyReference.cache
+C:\Users\Marian\Desktop\Dezvoltare c#\POO\Mostenire\Mostenire\obj\Debug\netcoreapp3.1\Mostenire.AssemblyInfoInputs.cache
+C:\Users\Marian\Desktop\Dezvoltare c#\POO\Mostenire\Mostenire\obj\Debug\netcoreapp3.1\Mostenire.AssemblyInfo.cs
+C:\Users\Marian\Desktop\Dezvoltare c#\POO\Mostenire\Mostenire\obj\Debug\netcoreapp3.1\Mostenire.csproj.CoreCompileInputs.cache
+C:\Users\Marian\Desktop\Dezvoltare c#\POO\Mostenire\Mostenire\obj\Debug\netcoreapp3.1\Mostenire.dll
+C:\Users\Marian\Desktop\Dezvoltare c#\POO\Mostenire\Mostenire\obj\Debug\netcoreapp3.1\Mostenire.pdb
+C:\Users\Marian\Desktop\Dezvoltare c#\POO\Mostenire\Mostenire\obj\Debug\netcoreapp3.1\Mostenire.genruntimeconfig.cache

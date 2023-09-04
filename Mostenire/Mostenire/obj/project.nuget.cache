@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mevyj40gsZiCNDPpbS2IOWsgFu2c0neitzChVMa2ivS2ZpNczmV5tM9L/EXlU9pjgCFFPL+Xf1fhJ1uPLb5mig==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Marian\\Desktop\\StartLearn\\Dezvoltare c#\\POO\\Mostenire\\Mostenire\\Mostenire.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Marian\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

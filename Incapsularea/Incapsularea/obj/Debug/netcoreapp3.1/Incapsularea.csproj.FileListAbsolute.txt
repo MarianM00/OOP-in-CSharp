@@ -1,0 +1,13 @@
+C:\Users\Marian\Desktop\Dezvoltare c#\POO\Incapsularea\Incapsularea\bin\Debug\netcoreapp3.1\Incapsularea.exe
+C:\Users\Marian\Desktop\Dezvoltare c#\POO\Incapsularea\Incapsularea\bin\Debug\netcoreapp3.1\Incapsularea.deps.json
+C:\Users\Marian\Desktop\Dezvoltare c#\POO\Incapsularea\Incapsularea\bin\Debug\netcoreapp3.1\Incapsularea.runtimeconfig.json
+C:\Users\Marian\Desktop\Dezvoltare c#\POO\Incapsularea\Incapsularea\bin\Debug\netcoreapp3.1\Incapsularea.runtimeconfig.dev.json
+C:\Users\Marian\Desktop\Dezvoltare c#\POO\Incapsularea\Incapsularea\bin\Debug\netcoreapp3.1\Incapsularea.dll
+C:\Users\Marian\Desktop\Dezvoltare c#\POO\Incapsularea\Incapsularea\bin\Debug\netcoreapp3.1\Incapsularea.pdb
+C:\Users\Marian\Desktop\Dezvoltare c#\POO\Incapsularea\Incapsularea\obj\Debug\netcoreapp3.1\Incapsularea.csprojAssemblyReference.cache
+C:\Users\Marian\Desktop\Dezvoltare c#\POO\Incapsularea\Incapsularea\obj\Debug\netcoreapp3.1\Incapsularea.AssemblyInfoInputs.cache
+C:\Users\Marian\Desktop\Dezvoltare c#\POO\Incapsularea\Incapsularea\obj\Debug\netcoreapp3.1\Incapsularea.AssemblyInfo.cs
+C:\Users\Marian\Desktop\Dezvoltare c#\POO\Incapsularea\Incapsularea\obj\Debug\netcoreapp3.1\Incapsularea.csproj.CoreCompileInputs.cache
+C:\Users\Marian\Desktop\Dezvoltare c#\POO\Incapsularea\Incapsularea\obj\Debug\netcoreapp3.1\Incapsularea.dll
+C:\Users\Marian\Desktop\Dezvoltare c#\POO\Incapsularea\Incapsularea\obj\Debug\netcoreapp3.1\Incapsularea.pdb
+C:\Users\Marian\Desktop\Dezvoltare c#\POO\Incapsularea\Incapsularea\obj\Debug\netcoreapp3.1\Incapsularea.genruntimeconfig.cache

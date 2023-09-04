@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "luKBf7Hv/kZUrr8BqcW3HAwYy3pa1FZ38jP57iWTTx3Ei1LHAjVsPxCezo9wD/9oO044tgVB/ZT6PAebBjwTGg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Marian\\Desktop\\StartLearn\\Dezvoltare c#\\POO\\Incapsularea\\Incapsularea\\Incapsularea.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Marian\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}
